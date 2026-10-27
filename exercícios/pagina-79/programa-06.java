@@ -18,9 +18,9 @@ public class Main {
         double media = (n1 + n2) / 2;
 
         if (media >= 7) {
-            System.out.println("Com esse notão de " + media +" aí você foi aprovado!");
+            System.out.printf("Com esse notão de %.2f aí você foi aprovado!%n", media);
         } else {
-            System.out.println("Infelizmente, com a média " + media + " você foi reprovado.");
+            System.out.printf("Infelizmente, com a média %.2f você foi reprovado.%n", media);
         }
     }
 }
