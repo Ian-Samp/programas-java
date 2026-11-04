@@ -1,0 +1,9 @@
+2)
+    a) Um novo objeto do tipo Funcionario é criado com o nome 'f1' e os parâmetros 
+    referentes ao funcionário 'Zé'.
+
+    b) Nas linhas 7 e 8, onde são construídos os valores de CPF e RG do f1, assim são possíveis
+    pois esses atributos foram declarados como default.
+
+    c) Não é permitida. Os atributos salário e matrícula foram definidos como private, o que
+    impede que sejam acessados. 
