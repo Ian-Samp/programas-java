@@ -1,0 +1,16 @@
+• Qual a diferença entre atributo de instância e atributo estático?
+R.: O atributo da instância pertence à uma instância em específico; já o estático pertence a todas
+as instancias daquela classe.
+
+• Por que utilizamos atributos private?
+R.: Utilizamos atributos do tipo private para ocultar dados internos de uma classe, o que
+chamamos em Java de 'encapsulamento'.
+
+• O que aconteceria se os atributos fossem public?
+R.: Qualquer outra classe poderia acessar e modificar o valor do atributo.
+
+• Qual a função do construtor?
+R.: Construir os objetos e os atribuir valores
+
+• Como o encapsulamento ajuda na manutenção do sistema?
+R.: encapsulamento protege atributos de serem modificados de forma indevida
