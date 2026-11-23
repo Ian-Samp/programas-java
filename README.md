@@ -7,3 +7,4 @@
 | Estudo de Caso 1       | 06/11/26            | [estudo de caso 1](exercícios/atividade-pratica-1)                |
 | Atividade Prática 1    | 06/11/26            | [atv prática](exercícios/atividade-pratica-1)                     |
 | Atividade 10/11        | 10/11/26            | [avt 10-11](exercícios/atividade-10-11)                           |
+| Atividade 17/11        | 22/11/26            | [avt 17-11](exercícios/atividade-17-11)                           |
